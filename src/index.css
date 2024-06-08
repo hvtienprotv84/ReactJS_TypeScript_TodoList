@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html{
+  background-color: #333;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-img {
+  background-image: url(https://miro.medium.com/v2/resize:fit:800/0*CBjisl422hUyLxiG.png);
+  background-size: cover;
+  background-position: center;
+}
+.logo_typescript{
+  position: absolute;
+  width: 450px;
+  height: 250px;
+  top:400px;
+  left:97px;
+}
